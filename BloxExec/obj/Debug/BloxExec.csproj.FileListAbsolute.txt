@@ -1,0 +1,14 @@
+C:\Users\omalo\source\repos\BloxExec\BloxExec\bin\Debug\BloxExec.exe.config
+C:\Users\omalo\source\repos\BloxExec\BloxExec\bin\Debug\BloxExec.exe
+C:\Users\omalo\source\repos\BloxExec\BloxExec\bin\Debug\BloxExec.pdb
+C:\Users\omalo\source\repos\BloxExec\BloxExec\bin\Debug\FastColoredTextBox.dll
+C:\Users\omalo\source\repos\BloxExec\BloxExec\obj\Debug\BloxExec.csproj.AssemblyReference.cache
+C:\Users\omalo\source\repos\BloxExec\BloxExec\obj\Debug\BloxExec.csproj.SuggestedBindingRedirects.cache
+C:\Users\omalo\source\repos\BloxExec\BloxExec\obj\Debug\BloxExec.Form1.resources
+C:\Users\omalo\source\repos\BloxExec\BloxExec\obj\Debug\BloxExec.Properties.Resources.resources
+C:\Users\omalo\source\repos\BloxExec\BloxExec\obj\Debug\BloxExec.csproj.GenerateResource.cache
+C:\Users\omalo\source\repos\BloxExec\BloxExec\obj\Debug\BloxExec.csproj.CoreCompileInputs.cache
+C:\Users\omalo\source\repos\BloxExec\BloxExec\obj\Debug\BloxExec.csproj.CopyComplete
+C:\Users\omalo\source\repos\BloxExec\BloxExec\obj\Debug\BloxExec.exe
+C:\Users\omalo\source\repos\BloxExec\BloxExec\obj\Debug\BloxExec.pdb
+C:\Users\omalo\source\repos\BloxExec\BloxExec\bin\Debug\WeAreDevs_API.dll
